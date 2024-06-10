@@ -1,3 +1,4 @@
+//Mirsad Masic, zadatak 1
 #include<stdio.h>
 
 void spoji_string(char*, char*);
